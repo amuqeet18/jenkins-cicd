@@ -7,7 +7,7 @@ pipeline {
                 }
                }        
               }
-    stage('test){
+    stage('test'){
           steps{
               echo"code testing has started"
               echo"code testing finished"
